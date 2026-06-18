@@ -208,6 +208,15 @@ export default function App() {
               </div>
             </section>
 
+            <section className="max-w-6xl mx-auto px-6 py-8 border-t border-[#131e35] bg-[#0b1324]/30">
+              <h3 className="text-[10px] font-black tracking-widest text-cyan-400 uppercase mb-4">// DIRECT_BUSINESS_COMMUNICATION</h3>
+              <div className="flex flex-wrap gap-4">
+                <a href="mailto:hammedkamaldeen9@gmail.com" className="btn-action px-4 py-2 bg-[#0b1324] border border-[#1d2d4f] text-white text-[11px] font-bold hover:border-cyan-500 transition-colors">EMAIL // DIRECT</a>
+                <a href="https://wa.me/2349071395377" target="_blank" rel="noreferrer" className="btn-action px-4 py-2 bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-[11px] font-bold hover:bg-cyan-500/20 transition-colors">WHATSAPP // 09071395377</a>
+                <a href="tel:07025998981" className="btn-action px-4 py-2 bg-[#0b1324] border border-[#1d2d4f] text-white text-[11px] font-bold hover:border-amber-500 transition-colors">CALL // 07025998981</a>
+              </div>
+            </section>
+
             <section className="max-w-6xl mx-auto px-6 py-16 space-y-8">
               <div className="space-y-2">
                 <h2 className="text-xs font-black tracking-widest text-indigo-400 uppercase">// PRIMARY_TOOLKIT_CAPABILITIES</h2>
