@@ -315,7 +315,7 @@ export default function App() {
                     </div>
 
                     <div className="bg-[#070b14] border border-[#131e35] p-4 flex items-center justify-between font-mono text-xs text-slate-300">
-                      <span className="truncate text-cyan-400">git clone https://github.com/kamaldeen-sys/matrix.git</span>
+                      <span className="truncate text-cyan-400">git clone https://github.com/kamaldeen010/portfolio-.git</span>
                       <button 
                         onClick={triggerCopy}
                         className="ml-4 px-3 py-1 bg-[#111c35] border border-[#1d2d4f] text-white text-[10px] uppercase font-bold hover:bg-white hover:text-black transition-colors"
